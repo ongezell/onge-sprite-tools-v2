@@ -16,10 +16,10 @@ For example, to create a sprite sheet with 2 vertical columns and the output fil
 
 ## Requirements
 
-To use this script, you will need to have the following software installed and available on your system:
+To use this script, you will need to have the following software/modules installed:
 
 - [Python](https://www.python.org/): The script is written in Python, so you will need to have a Python interpreter installed on your system in order to run it.
-- [Pillow](https://pillow.readthedocs.io/en/stable/): The script uses the Pillow library to create and manipulate image files. You can install Pillow using the following 
+- [Pillow](https://pillow.readthedocs.io/en/stable/): The script uses the Pillow library to create and manipulate image files. 
 
 I hope you find this script hella useful!
 
